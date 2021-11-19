@@ -1,6 +1,6 @@
 # Install
 
-This is **Boockstack Wiki App**. The original repo is [BookStackApp/BookStack](https://github.com/BookStackApp/BookStack). In this version you can deploy your own boockstack with **docker-compose**
+This is **Bookstack Wiki App**. The original repo is [BookStackApp/BookStack](https://github.com/BookStackApp/BookStack). In this version you can deploy your own boockstack with **docker-compose**
 
 For install this app:
  1. Clone this repo
